@@ -1,0 +1,96 @@
+/* p {font-family: "RobotoSlab"font-family: "RobotoSlab"
+  font-family: RobotoSlab;
+  font-size: 32px;
+  font-weight: 300;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-Thin"),
+    url("../fonts/RobotoSlab-Thin.woff") format("woff"),
+    url("../fonts/RobotoSlab-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-ExtraLight"),
+    url("../fonts/RobotoSlab-ExtraLight.woff") format("woff"),
+    url("../fonts/RobotoSlab-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-Light"),
+    url("../fonts/RobotoSlab-Light.woff") format("woff"),
+    url("../fonts/RobotoSlab-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-Regular"),
+    url("../fonts/RobotoSlab-Regular.woff") format("woff"),
+    url("../fonts/RobotoSlab-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-Medium"),
+    url("../fonts/RobotoSlab-Medium.woff") format("woff"),
+    url("../fonts/RobotoSlab-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-SemiBold"),
+    url("../fonts/RobotoSlab-SemiBold.woff") format("woff"),
+    url("../fonts/RobotoSlab-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-Bold"),
+    url("../fonts/RobotoSlab-Bold.woff") format("woff"),
+    url("../fonts/RobotoSlab-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-ExtraBold"),
+    url("../fonts/RobotoSlab-ExtraBold.woff") format("woff"),
+    url("../fonts/RobotoSlab-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: local("RobotoSlab-Black"),
+    url("../fonts/RobotoSlab-Black.woff") format("woff"),
+    url("../fonts/RobotoSlab-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
